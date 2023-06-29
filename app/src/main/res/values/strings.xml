@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">Maroon Labkom</string>
+    <string name="member_detail">Nama Anggota</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="name_email">Hanif Hanan Al-Jufri - A296DSX1690@bangkit.academy</string>
+    <string name="note">Catatan</string>
+    <string name="note_overview">Isi Catatan</string>
+
+    <string-array name="data_name">
+        <item>Arie Qurania, M.Kom</item>
+        <item>Fajar Delli, M.Kom</item>
+        <item>Febryan Gerald</item>
+        <item>Hanif Hanan Al-Jufri</item>
+        <item>Abimanyu Okysaputra</item>
+        <item>Andhika Bhayangkara</item>
+        <item>Bayu Ilham</item>
+        <item>Raden Rivaldi</item>
+        <item>Natasya Aprilyanti</item>
+        <item>Zakiyah Humaira</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Ketua Prodi Ilmu Komputer</item>
+        <item>Kepala Laboratorium Ilmu Komputer</item>
+        <item>Koordinator Asisten Praktikum Laboratorium Ilmu Komputer</item>
+        <item>(Ex) Wakil Koordinator Asisten Praktikum Laboratorium Ilmu Komputer</item>
+        <item>Asisten Praktikum</item>
+        <item>Asisten Praktikum</item>
+        <item>Asisten Praktikum</item>
+        <item>Asisten Praktikum</item>
+        <item>Asisten Praktikum</item>
+        <item>Asisten Praktikum</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/arie</item>
+        <item>@drawable/fajar</item>
+        <item>@drawable/febryan</item>
+        <item>@drawable/hanif</item>
+        <item>@drawable/abim</item>
+        <item>@drawable/andhika</item>
+        <item>@drawable/bayu</item>
+        <item>@drawable/raden</item>
+        <item>@drawable/natasya</item>
+        <item>@drawable/zakiyah</item>
+    </integer-array>
+
+    <string-array name="data_note">
+        <item>
+            NIDN : 0427047601 \n
+            1. (Ex) Kepala Laboratorium Ilmu Komputer 2019-2021 \n
+            2. Dosen Pengampu Mata Kuliah Basis Data \n
+            3. Dosen Pengampu Mata Kuliah Pengolahan Citra \n
+            4. Dosen Pengampu Mata Kuliah Logika Informatika \n
+            5. Dosen Pengampu Mata Kuliah Aljabar Linear Matriks \n
+            6. Dosen Pengampu Mata Kuliah Struktur Data \n
+            7. Dosen Pengampu Mata Kuliah Sistem Pakar \n
+            8. Dosen Pengampu Kata Kuliah Kecerdasan Buatan \n
+        </item>
+        <item>
+            NIDN : 0425038403 \n
+            1. Dosen Pengampu Mata Kuliah Pemrograman Data Analys \n
+            2. Dosen Pengampu Mata Kuliah Teknik Simulasi dan Data Mining \n
+            3. Dosen Pengampu Mata Kuliah Optimasi \n
+            4. Dosen Pengampu Mata Kuliah Kewirausahaan dan Etika Profesi \n
+        </item>
+        <item>
+            NPM : 065120164 \n
+            1. Asisten Praktikum Algoritma dan Pemrograman Dasar \n
+            2. Asisten Praktikum Algoritma dan Struktur Data \n
+            3. Asisten Praktikum Statistika \n
+            4. Asisten Praktikum Pemrgoraman Berorientasi Objek \n
+            5. Asisten Praktikum Basis Data \n
+            6. Asisten Praktikum Data Engineering \n
+            7. Asisten Praktikum Software Engineering \n
+            8. Asisten Praktikum Teknologi Web \n
+            9. Asisten Praktikum Grafika Komputer \n
+        </item>
+        <item>
+            NPM : 065120086 \n
+            1. Asisten Praktikum Algoritma dan Pemrograman Dasar \n
+            2. Asisten Praktikum Algoritma dan Struktur Data \n
+            3. Asisten Praktikum Pemrograman Berorientasi Objek \n
+        </item>
+        <item>
+            NPM : 065120115 \n
+            1. Asisten Praktikum Algoritma dan Pemrograman Dasar \n
+            2. Asisten Praktikum Algoritma dan Struktur Data \n
+            3. Asisten Praktikum Pemrograman Berorientasi Objek \n
+            4. Asisten Praktikum Software Engineering \n
+            5. Asisten Praktikum Data Engineering \n
+            6. Asisten Praktikum Interaksi Manusia dan Komputer \n
+            7. Asisten Praktikum Teknologi Web \n
+            8. Asisten Praktikum UI/UX \n
+        </item>
+        <item>
+            NPM : 065120033 \n
+            1. Asisten Praktikum Pengantar Ilmu Komputer \n
+            2. Asisten Praktikum Algoritma dan Struktur Data \n
+            3. Asisten Praktikum Pemrograman Berorientasi Objek \n
+            4. Asisten Praktikum Basis Data \n
+            5. Asisten Praktikum Statistika \n
+            6. Assiten Praktikum Distributed Databse \n
+            7. Asisten Praktikum Teknologi Web \n
+        </item>
+        <item>
+            NPM : 065120067 \n
+            1. Asisten Praktikum Pemrograman Berorientasi Objek \n
+            2. Asisten Praktikum Basis Data Lanjut \n
+            3. Asisten Praktikum Grafika Komputer \n
+            4. Asisten Praktikum Software Engineering \n
+            5. Asisten Praktikum Distributed Database \n
+            6. Asisten Praktikum Interaksi Manusia dan Komputer \n
+        </item>
+        <item>
+            NPM : 065120008 \n
+            1. Asisten Praktikum Basis Data \n
+            2. Asisten Praktikum Pemrograman Berorientasi Objek \n
+            3. Asisten Praktikum Distributed Database \n
+            4. Asisten Praktikum Data Engineering \n
+            5. Asisten Praktikum Software Engineering \n
+        </item>
+        <item>
+            NPM : 065120160 \n
+            1. Asisten Praktikum Pengantar Ilmu Komputer \n
+            2. Asisten Praktikum Statistika \n
+            3. Asisten Praktikum Basis Data \n
+            4. Asisten Praktikum Distributed Database \n
+            5. Asisten Praktikum Data Engineering \n
+        </item>
+        <item>
+            NPM : 065120132 \n
+            1. Asisten Praktikum Pengantar Ilmu Komputer \n
+            2. Asisten Praktikum Statistika \n
+            3. Asisten Praktikum Pemrograman Berorientasi Objek \n
+            4. Asisten Praktikum Basis Data \n
+            5. Asisten Praktikum Distributed Database \n
+            6. Asisten Praktikum Interaksi Manusia dan Komputer \n
+            7. Asisten Praktikum Teknologi Web \n
+        </item>
+        </string-array>
+</resources>
